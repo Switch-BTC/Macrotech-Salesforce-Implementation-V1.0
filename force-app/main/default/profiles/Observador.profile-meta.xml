@@ -59,6 +59,21 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Case.Date_Time_Test__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Case.N_mero_entero_seg_n_la_hora__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Case.test_formula_entero__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Cita__c.Is_Job_Processed__c</field>
         <readable>true</readable>
     </fieldPermissions>
